@@ -1,0 +1,8 @@
+{
+  "environment": "Java 25.0.3, embedded H2, localhost on user Mac; seeded 21 days/8 appliances; six sessions sharing demo household",
+  "requests": 30,
+  "concurrentSessions": 6,
+  "meanSeconds": 0.2425,
+  "maxSeconds": 0.5018,
+  "allUnderThreeSeconds": true
+}
